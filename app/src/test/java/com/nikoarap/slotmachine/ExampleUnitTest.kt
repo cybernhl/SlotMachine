@@ -1,4 +1,4 @@
-package com.nikoarap.kotlintestapp
+package com.nikoarap.slotmachine
 
 import org.junit.Test
 

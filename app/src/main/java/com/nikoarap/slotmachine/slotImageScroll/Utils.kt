@@ -1,4 +1,4 @@
-package com.nikoarap.kotlintestapp.slotImageScroll
+package com.nikoarap.slotmachine.slotImageScroll
 
 object Utils {
 

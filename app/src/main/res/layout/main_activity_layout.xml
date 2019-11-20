@@ -34,21 +34,21 @@
             android:layout_gravity="center_horizontal|center_vertical"
             tools:ignore="UselessParent">
 
-            <com.nikoarap.kotlintestapp.slotImageScroll.SlotScroll
+            <com.nikoarap.slotmachine.slotImageScroll.SlotScroll
                 android:id="@+id/image1"
                 android:padding="10sp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical" />
 
-            <com.nikoarap.kotlintestapp.slotImageScroll.SlotScroll
+            <com.nikoarap.slotmachine.slotImageScroll.SlotScroll
                 android:id="@+id/image2"
                 android:padding="10sp"
                 android:layout_width="wrap_content"
                 android:layout_height="220dp"
                 android:layout_gravity="center_vertical" />
 
-            <com.nikoarap.kotlintestapp.slotImageScroll.SlotScroll
+            <com.nikoarap.slotmachine.slotImageScroll.SlotScroll
                 android:id="@+id/image3"
                 android:padding="10sp"
                 android:layout_width="wrap_content"

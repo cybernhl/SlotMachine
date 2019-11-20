@@ -1,12 +1,12 @@
-package com.nikoarap.kotlintestapp
+package com.nikoarap.slotmachine
 
 import android.content.pm.ActivityInfo
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.nikoarap.kotlintestapp.slotImageScroll.EventEnd
-import com.nikoarap.kotlintestapp.slotImageScroll.Utils
+import com.nikoarap.slotmachine.slotImageScroll.EventEnd
+import com.nikoarap.slotmachine.slotImageScroll.Utils
 import kotlinx.android.synthetic.main.main_activity_layout.*
 import kotlin.random.Random
 

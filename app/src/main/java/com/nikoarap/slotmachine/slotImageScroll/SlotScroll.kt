@@ -1,4 +1,4 @@
-package com.nikoarap.kotlintestapp.slotImageScroll
+package com.nikoarap.slotmachine.slotImageScroll
 
 import android.animation.Animator
 import android.content.Context
@@ -6,7 +6,7 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.FrameLayout
 import android.widget.ImageView
-import com.nikoarap.kotlintestapp.R
+import com.nikoarap.slotmachine.R
 import kotlinx.android.synthetic.main.slot_image_scroll.view.*
 
 class SlotScroll: FrameLayout {
